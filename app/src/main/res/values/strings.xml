@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chatApp</string>
+    <string name="select_users">select_users</string>
+    <string name="username_1">username_1</string>
+</resources>
